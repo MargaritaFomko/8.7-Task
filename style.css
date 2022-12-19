@@ -1,0 +1,27 @@
+body {
+    background-color: black; 
+    background-image: url(img/Magic.jpg);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+    
+}
+
+.card {
+    background-color: rgba(17, 12, 42, 60%);
+    outline: 5px solid black;
+}
+
+#answerField {
+    color: #fef9e7;
+    font-family: Marker Felt, fantasy;
+}
+
+
+.m-0 {
+color:rgba(121, 49, 74, 50%);;
+}
